@@ -1,2 +1,2 @@
 # bikeSales
-Its an insight of how bike sales vary across different factors. This analysis is done using Excel Dashboard
+Analyzed bike sales data in Excel to identify customer trends, demographics, and purchasing patterns using pivot tables and interactive dashboards.
